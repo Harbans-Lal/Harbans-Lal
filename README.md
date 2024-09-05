@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MERN Development**
 
-- 🌱 I’m currently learning **React, Express, Javascript**
+- 🌱 I’m currently learning **NextJs, TypeScript, React, Express, Javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Harbans-Lal?tab=repositories](https://github.com/Harbans-Lal?tab=repositories)
 
