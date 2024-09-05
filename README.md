@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Harbans-Lal?tab=repositories](https://github.com/Harbans-Lal?tab=repositories)
 
-- 💬 Ask me about **React, Express, Javascript**
+- 💬 Ask me about **NextJs,React, Express, Javascript**
 
 - 📫 How to reach me **harbansl506@gmail.com**
 
