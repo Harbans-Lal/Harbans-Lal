@@ -68,7 +68,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
   <a href="https://casl.js.org/" target="_blank" rel="noreferrer">
-    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAe1BMVEVHcEzd3+DS09VQT1Gys7VUU1XZ2tzn6OrR0tR0dHZQT1F/f4HCw8Xr7O7CwsRLSkyEhYfT1NXs7O3a2tseGRoFAQEYEhMpJSY1MTNIRUdAPT5XVldiYWN6enzBwcSfoKLb3N9ycXP+/v+QkJJPTU+FhYezs7Xy8/RramwQAsUJAAAAFHRSTlMAmaBILZuB/P0hfrRllVXdY86ftZ2tieEAAAFfSURBVCiRbZLncuMwDISl2CdSl3oXAuydKu//hJGo4tjJ/uN8g53FEk1zqH/r2rZ97d6uzYP6J5LSFKgLzs/zc/+dfSbqbEFYxaX29s+JrtNkgQvBWRUixlj24T5RiMGZWasNaiNklhttHThCXM7WVIplnrX0m/N/CoEuWZy3ZXVGaYzBvMHXAJQGMoVxMKJCrTXbYUdgXGAiYz5hEcPfCl8SeLf6equrrSpFmfmybZJ49KPzfpi3QEpKbs2+S4giex+jkdumSkk2xL0EMkK0g5RHC0opyO87bAkUY9ippSsxHAVek2Ja84MtRWLUl6PcaQRVxM6QCw5Wn813hDEpbpOo9i23SB64wgMyiPO3/3xKHG+TeItTf21ywM5EYO3dqbwkCwdDaT/uj+hfknCkNc/Ng2jgNREyOzyypqdkpYg59z/gcmZBALDR/7jbSgnRmtBfWXWeyO9oVdfdPb8Ayv0rlGxdObsAAAAASUVORK5CYII=" alt="casl" width="40" height="40"/>
+    <img src="https://casl.js.org/v6/51b9cc103e05f66c.png" alt="casl" width="40" height="40"/>
   </a>
 </p>
 
