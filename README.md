@@ -18,7 +18,7 @@
 <a href="https://dev.to/nobody404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nobody404" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/harbans-lal-b5499917a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harbans-lal-b5499917a/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/harbans-lal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="harbans-lal" height="30" width="40" /></a>
-  <a href="https://chat.whatsapp.com/Jn7EsJYIRFDZeT5QwL35S" target="blank"> <img align="center" src="https://static.vecteezy.com/system/resources/previews/023/986/631/non_2x/whatsapp-logo-whatsapp-logo-transparent-whatsapp-icon-transparent-free-free-png.png" alt="harbans-lal" height="30" width="40" /> </a>
+  <a href="https://chat.whatsapp.com/Jn7ESzJYIRFDZeT5QwL35S" target="blank"> <img align="center" src="https://static.vecteezy.com/system/resources/previews/023/986/631/non_2x/whatsapp-logo-whatsapp-logo-transparent-whatsapp-icon-transparent-free-free-png.png" alt="harbans-lal" height="30" width="40" /> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
